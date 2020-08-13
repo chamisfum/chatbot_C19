@@ -1,0 +1,9 @@
+(chatbot) D:\chatbot_C19>heroku create chatbot-covid-api
+Creating ⬢ chatbot-covid-api... -
+(node:7380) SyntaxError Plugin: heroku: C:\Users\UnNamed\AppData\Local\heroku\config.json: Unexpected string in JSON at position 72
+module: @oclif/config@1.13.2
+task: runHook prerun
+plugin: heroku
+root: C:\Program Files\heroku\client
+Creating ⬢ chatbot-covid-api... done
+https://chatbot-covid-api.herokuapp.com/ | https://git.heroku.com/chatbot-covid-api.git
